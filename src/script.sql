@@ -1,1 +1,1 @@
-CREATE DATABASE inventory_intel;
+CREATE DATABASE inventario_intel;
