@@ -6,7 +6,7 @@ import java.sql.SQLException; // Informa os erros de conexão com o banco de dad
 
 public class ConsultaSQL {
 
-    private static final String JDBC_URL = "jdbc:mysql://localhost:3306/exercicios_database"; // Caminho até o banco de dados
+    private static final String JDBC_URL = "jdbc:mysql://localhost:3306/inventory_intel"; // Caminho até o banco de dados
     private static final String USER = "root"; // Usuário
     private static final String PASSWORD = ""; // Senha
 
